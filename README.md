@@ -17,4 +17,5 @@ BiomeSTL currently has six working groups:
   - Citizen Science & Education Team
   - City/County Adisory Team
   - Buisness Community Team
+  
 Check out the links above for info on how to get involved.
