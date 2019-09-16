@@ -1,6 +1,6 @@
 ### Learn more about the technology powering BiomeSTL - and [get involved](https://github.com/biomestl)!
 
-BiomeSTL will serve as a digital catalyst to achieve the biodiversity targets of OneSTL. BiomeSTL is brought to you by BiodiverseCity St. Louis.
+BiomeSTL serves as a digital catalyst to achieve the biodiversity targets of OneSTL, brought to you by BiodiverseCity St. Louis.
 
 **BiomeSTL** is a regional vision, biodiversity atlas, and action plan to put healthy, vibrant lands and waters at the center of how we connect with, design, plan, and sustain our communities. Learn more about the project [here](http://www.missouribotanicalgarden.org/sustainability/sustainability/biodiversecity-st.-louis/biomestl.aspx)
 
